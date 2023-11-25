@@ -1,0 +1,149 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{zhang2021combining}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2c81656c924858824dfb10d50423b77a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e6f03dbe60f702e897dc57f0c51f8888}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4e32362e21e998d5b624fe29245ad7a1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xingyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8c34c8ec552ea7b6e48b99da75b71e99}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Wanrong},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2810de8af34d5dab287ae58a8692e0cf}
+      \strng{fullhash}{3f2c8be854af3bf311a361bdc970c714}
+      \strng{bibnamehash}{2810de8af34d5dab287ae58a8692e0cf}
+      \strng{authorbibnamehash}{2810de8af34d5dab287ae58a8692e0cf}
+      \strng{authornamehash}{2810de8af34d5dab287ae58a8692e0cf}
+      \strng{authorfullhash}{3f2c8be854af3bf311a361bdc970c714}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Knowledge-Based Systems}
+      \field{title}{Combining expert weights for online portfolio selection based on the gradient descent algorithm}
+      \field{volume}{234}
+      \field{year}{2021}
+      \field{pages}{107533}
+      \range{pages}{1}
+    \endentry
+    \entry{zhang2023effective}{article}{}
+      \name{author}{5}{}{%
+        {{hash=10a1c56051cbb56e6d5f3b8f21713e81}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wenyu},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a8c2056316450d29114c37d853988d1f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiangming},
+           giveni={X\bibinitperiod}}}%
+        {{hash=86eada304a0b314ca5dd640d268495ab}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yunzhu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1189301acc41e062ad7b33210f7e7f58}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Neng},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ac8341e3048fc04a833bb65a5d1f7961}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Ping},
+           giveni={X\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5d3bdcf728beee99c9762420c2b7d5b8}
+      \strng{fullhash}{8230504d3ba7565898c32f3f2bcc4ce5}
+      \strng{bibnamehash}{5d3bdcf728beee99c9762420c2b7d5b8}
+      \strng{authorbibnamehash}{5d3bdcf728beee99c9762420c2b7d5b8}
+      \strng{authornamehash}{5d3bdcf728beee99c9762420c2b7d5b8}
+      \strng{authorfullhash}{8230504d3ba7565898c32f3f2bcc4ce5}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Signal Processing Letters}
+      \field{title}{Effective Online Portfolio Selection for the Long-Short Market Using Mirror Gradient Descent}
+      \field{year}{2023}
+    \endentry
+    \entry{hall2015online}{article}{}
+      \name{author}{2}{}{%
+        {{hash=64a0ccc35c2b875effa1de04a6942e2a}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Eric\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=08b9639c512c5df128db510e2bf16c75}{%
+           family={Willett},
+           familyi={W\bibinitperiod},
+           given={Rebecca\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \strng{fullhash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \strng{bibnamehash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \strng{authorbibnamehash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \strng{authornamehash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \strng{authorfullhash}{f81a096ebebcc1b54f6cd84d47d6fb38}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Selected Topics in Signal Processing}
+      \field{number}{4}
+      \field{title}{Online convex optimization in dynamic environments}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{647\bibrangedash 662}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
